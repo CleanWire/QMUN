@@ -13,6 +13,7 @@ Please select your committee :
 The following links will redirect you to the Speakers' list.
 
 [GA1](https://docs.google.com/spreadsheets/d/1stUI2As0F8-ILtzaN5IyAQkl0n2pighBCg713hOm4fY/edit?usp=sharing)
+[GA2](https://docs.google.com/spreadsheets/d/1stUI2As0F8-ILtzaN5IyAQkl0n2pighBCg713hOm4fY/edit?usp=sharing)
 
 ### Markdown
 
