@@ -11,6 +11,7 @@ This is the central website for your QMUN needs wether you're a teacher, a stude
 Please select your committee :
 
 [GA1](https://drive.google.com/drive/folders/1OR7bmB6SgXIt4AZpc4b0ap4ZkvidFOnR?usp=sharing)
+[GA2](https://drive.google.com/drive/folders/1UQjfOz1-zW2BpMjxY4v2XehF-LeJbC_s?usp=sharing)
 
 ### Markdown
 
@@ -35,10 +36,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CleanWire/QMUN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
