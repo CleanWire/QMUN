@@ -1,9 +1,5 @@
 ## Welcome to the QMUN HUB
 
-You can use the [editor on GitHub](https://github.com/CleanWire/QMUN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 This is the central website for your QMUN needs wether you're a Faculty Advisor, a Student or the DAIS.
 
 ### Student
@@ -14,6 +10,9 @@ Please select your committee :
 [GA2](https://drive.google.com/drive/folders/1UQjfOz1-zW2BpMjxY4v2XehF-LeJbC_s?usp=sharing)
 
 ### Faculty Advisor
+The following links will redirect you to the Speakers' list.
+
+[GA1](https://docs.google.com/spreadsheets/d/1stUI2As0F8-ILtzaN5IyAQkl0n2pighBCg713hOm4fY/edit?usp=sharing)
 
 ### Markdown
 
