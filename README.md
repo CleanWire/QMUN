@@ -2,6 +2,13 @@
 
 This is the central website for your QMUN needs wether you're a Faculty Advisor, a Student or the DAIS.
 
+### WIFI
+
+Here are the credentials to sign in the WIFI.
+
+SSID: RandomWIFI5Ghz
+Password: VeryStrongPassw0rd!
+
 ### Student
 
 Please select your committee :
