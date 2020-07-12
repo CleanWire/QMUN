@@ -10,7 +10,7 @@ This is the central website for your QMUN needs wether you're a teacher, a stude
 
 Please select your committee :
 
-[GA1] (https://drive.google.com/drive/folders/1OR7bmB6SgXIt4AZpc4b0ap4ZkvidFOnR?usp=sharing)
+[GA1](https://drive.google.com/drive/folders/1OR7bmB6SgXIt4AZpc4b0ap4ZkvidFOnR?usp=sharing)
 
 ### Markdown
 
