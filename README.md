@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/CleanWire/QMUN/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-This is the central website for your QMUN needs wether you're a teacher, a student or the DAIS.
+This is the central website for your QMUN needs wether you're a Faculty Advisor, a Student or the DAIS.
 
 ### Student
 
@@ -12,6 +12,8 @@ Please select your committee :
 
 [GA1](https://drive.google.com/drive/folders/1OR7bmB6SgXIt4AZpc4b0ap4ZkvidFOnR?usp=sharing)
 [GA2](https://drive.google.com/drive/folders/1UQjfOz1-zW2BpMjxY4v2XehF-LeJbC_s?usp=sharing)
+
+### Faculty Advisor
 
 ### Markdown
 
